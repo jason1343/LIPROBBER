@@ -1,4 +1,3 @@
-from pynput.keyboard import Listener
 import keyboard
 import logging
 
