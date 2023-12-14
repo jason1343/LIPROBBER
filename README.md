@@ -1,9 +1,7 @@
-# LIPROBBER-0221
-This keylooger sends key values to gmail u want.
+# LIPROBBER
+This keylogger sends key values victim pressed to your gmail.
 
 *This tool infects target pc.
-
-![image](https://github.com/jason1343/LIPROBBER-0221/assets/96876149/2bb84299-e10b-47ee-8c14-ac8a6556e5d5)
 
 ---
 
